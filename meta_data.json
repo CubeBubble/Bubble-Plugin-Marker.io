@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "analytics"
+    },
+    "description": "Send feedback and bug reports without leaving your website.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1671527078744x334177446477388540/6d9844.png",
+    "license": "open_source",
+    "name": "Marker.io",
+    "sa_node_version": 18
+}
